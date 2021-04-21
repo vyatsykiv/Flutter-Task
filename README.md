@@ -15,3 +15,6 @@ Icons:
 - [Search](https://raw.githubusercontent.com/vyatsykiv/Flutter-Task/main/ic_search_white.png)
 - [Check Circle](https://raw.githubusercontent.com/vyatsykiv/Flutter-Task/main/ic_check_circle_white.png)
 - [Add](https://raw.githubusercontent.com/vyatsykiv/Flutter-Task/main/ic_add_black.png) 
+
+
+Implemented task must be shared via GitHub.
